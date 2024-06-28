@@ -1,0 +1,8 @@
+../Core/Src/main.c:71:5:main	24	static,ignoring_inline_asm
+../Core/Src/main.c:127:6:SystemClock_Config	320	static
+../Core/Src/main.c:219:7:MX_SDMMC1_SD_Init	8	static
+../Core/Src/main.c:252:13:MX_GPIO_Init	72	static
+../Core/Src/main.c:617:10:GetSector	24	static
+../Core/Src/main.c:672:6:MPU_Config	24	static
+../Core/Src/main.c:707:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:724:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,9 @@
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c:237:9:BSP_I2C1_DeInit	8	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c:265:26:MX_I2C1_Init	8	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c:188:9:BSP_I2C1_Init	112	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c:311:9:BSP_I2C1_WriteReg	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c:348:9:BSP_I2C1_ReadReg	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c:385:9:BSP_I2C1_WriteReg16	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c:422:9:BSP_I2C1_ReadReg16	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c:458:9:BSP_I2C1_IsReady	8	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c:480:9:BSP_GetTick	0	static

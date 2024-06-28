@@ -1,0 +1,11 @@
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:139:9:BSP_TS_Init	64	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:197:9:BSP_TS_DeInit	8	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:222:9:BSP_TS_GetCapabilities	8	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:243:9:BSP_TS_EnableIT	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:292:9:BSP_TS_DisableIT	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:324:6:BSP_TS_IRQHandler	0	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:334:13:BSP_TS_Callback	0	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:558:13:TS_EXTI_Callback	8	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:349:9:BSP_TS_GetState	40	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:434:9:BSP_TS_Set_Orientation	0	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:446:9:BSP_TS_Get_Orientation	0	static

@@ -1,0 +1,14 @@
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:105:9:BSP_NOR_Init	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:150:9:BSP_NOR_DeInit	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:182:26:MX_NOR_Init	16	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:291:9:BSP_NOR_ReadData	32	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:316:9:BSP_NOR_ReturnToReadMode	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:344:9:BSP_NOR_WriteData	40	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:391:9:BSP_NOR_ProgramData	32	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:420:9:BSP_NOR_EraseBlock	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:448:9:BSP_NOR_EraseChip	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:477:9:BSP_NOR_ReadID	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:508:13:NOR_MspInit	64	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:558:13:NOR_MspDeInit	40	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:596:13:NOR_MspWait	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_nor.c:625:16:NOR_GetStatus	32	static

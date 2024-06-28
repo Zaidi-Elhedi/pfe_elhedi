@@ -1,0 +1,17 @@
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:109:9:BSP_QSPI_Init	12
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:194:9:BSP_QSPI_DeInit	6
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:243:26:MX_QSPI_Init	1
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:341:9:BSP_QSPI_Read	5
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:380:9:BSP_QSPI_Write	10
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:450:9:BSP_QSPI_EraseBlock	5
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:489:9:BSP_QSPI_EraseChip	5
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:529:9:BSP_QSPI_GetStatus	4
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:565:9:BSP_QSPI_GetInfo	2
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:589:9:BSP_QSPI_EnableMemoryMappedMode	5
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:634:9:BSP_QSPI_DisableMemoryMappedMode	6
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:685:9:BSP_QSPI_ReadID	3
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:715:9:BSP_QSPI_ConfigFlash	11
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:802:13:QSPI_MspInit	1
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:899:13:QSPI_MspDeInit	1
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:935:16:QSPI_ResetMemory	6
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_qspi.c:978:16:QSPI_DummyCyclesCfg	6

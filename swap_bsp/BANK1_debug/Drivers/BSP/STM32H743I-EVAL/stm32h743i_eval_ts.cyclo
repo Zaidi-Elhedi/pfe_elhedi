@@ -1,0 +1,13 @@
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:139:9:BSP_TS_Init	10
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:197:9:BSP_TS_DeInit	3
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:222:9:BSP_TS_GetCapabilities	2
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:243:9:BSP_TS_EnableIT	5
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:292:9:BSP_TS_DisableIT	3
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:324:6:BSP_TS_IRQHandler	1
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:334:13:BSP_TS_Callback	1
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:349:9:BSP_TS_GetState	11
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:434:9:BSP_TS_Set_Orientation	1
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:446:9:BSP_TS_Get_Orientation	1
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:464:16:EXC7200_Probe	5
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:512:16:TS3510_Probe	5
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_ts.c:558:13:TS_EXTI_Callback	1

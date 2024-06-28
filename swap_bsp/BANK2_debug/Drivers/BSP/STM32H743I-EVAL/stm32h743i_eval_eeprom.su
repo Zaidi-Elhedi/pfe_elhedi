@@ -1,0 +1,8 @@
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_eeprom.c:118:9:BSP_EEPROM_Init	64	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_eeprom.c:143:9:BSP_EEPROM_DeInit	8	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_eeprom.c:204:9:BSP_EEPROM_ReadPage	16	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_eeprom.c:234:9:BSP_EEPROM_ReadBuffer	16	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_eeprom.c:414:9:BSP_EEPROM_IsDeviceReady	8	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_eeprom.c:171:9:BSP_EEPROM_WritePage	16	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_eeprom.c:449:16:EEPROM_WriteBytes.constprop	8	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_eeprom.c:263:9:BSP_EEPROM_WriteBuffer	40	static

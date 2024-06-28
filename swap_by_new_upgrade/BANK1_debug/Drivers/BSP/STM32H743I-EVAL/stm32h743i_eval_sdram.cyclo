@@ -1,0 +1,7 @@
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sdram.c:108:9:BSP_SDRAM_Init	5
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sdram.c:169:9:BSP_SDRAM_DeInit	2
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sdram.c:197:26:MX_SDRAM_BANK2_Init	2
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sdram.c:311:9:BSP_SDRAM_SendCmd	3
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sdram.c:336:6:BSP_SDRAM_IRQHandler	1
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sdram.c:354:13:SDRAM_MspInit	1
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sdram.c:449:13:SDRAM_MspDeInit	1

@@ -1,0 +1,4 @@
+C:/Users/ezaidi/STM32Cube/Repository/STM32Cube_FW_H7_V1.11.0/Projects/STM32H743I-EVAL/Examples/FLASH/FLASH_SwapBank/Src/main.c:47:5:main	4
+C:/Users/ezaidi/STM32Cube/Repository/STM32Cube_FW_H7_V1.11.0/Projects/STM32H743I-EVAL/Examples/FLASH/FLASH_SwapBank/Src/main.c:185:13:SystemClock_Config	4
+C:/Users/ezaidi/STM32Cube/Repository/STM32Cube_FW_H7_V1.11.0/Projects/STM32H743I-EVAL/Examples/FLASH/FLASH_SwapBank/Src/main.c:246:13:CPU_CACHE_Enable	5
+C:/Users/ezaidi/STM32Cube/Repository/STM32Cube_FW_H7_V1.11.0/Projects/STM32H743I-EVAL/Examples/FLASH/FLASH_SwapBank/Src/main.c:261:13:MPU_Config	1

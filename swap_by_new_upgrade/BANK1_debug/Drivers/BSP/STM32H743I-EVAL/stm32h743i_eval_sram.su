@@ -1,0 +1,6 @@
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sram.c:101:9:BSP_SRAM_Init	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sram.c:143:9:BSP_SRAM_DeInit	24	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sram.c:171:26:MX_SRAM_BANK3_Init	16	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sram.c:289:6:BSP_SRAM_IRQHandler	16	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sram.c:305:13:SRAM_MspInit	64	static
+../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_sram.c:387:13:SRAM_MspDeInit	40	static
